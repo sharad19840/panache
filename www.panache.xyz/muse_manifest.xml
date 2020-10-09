@@ -1,0 +1,185 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.panache.xyz" resolutions="1x" timestamp="1523237680231">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="308275859" ref="index"/>
+    <file name="nomq_index.css" crc="4094883391" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <folder name="panache-banner">
+      <folder name="images">
+        <file name="_11639195_10153482632405407_359022234_o.jpg" crc="4243479988" mt="1522874765000"/>
+        <file name="_12164864_10153748964700407_149116430_o.jpg" crc="4079680253" mt="1522874765000"/>
+        <file name="_20150617_172603.jpg" crc="307558356" mt="1522874765000"/>
+        <file name="_25421_background_pattern_line_shape_texture_50880_2560x1600.jpg" crc="490219329" mt="1522874765000"/>
+      </folder>
+      <file name="panache banner.js" crc="3974178676" mt="1522874765000"/>
+      <file name="panache banner.html" crc="4000062796" mt="1522874765000"/>
+    </folder>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="3803043152" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="380897831" ref="index"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="530399994" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="index"/>
+    <file name="require.js" crc="4157109226" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="dance-classes-and-fitness-sessions-in-delhi-favicon.ico" crc="4087910327" ref="index"/>
+    <file name="logo_complete99x99.png" crc="3814478482" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1280x720-a0x-u26407-fr.jpg" crc="4093142004" ref="index"/>
+    <file name="20150701_172931.jpg" crc="78708390" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="20150910_185251.jpg" crc="3930153292" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo-header.png" crc="3811971119" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="25421_background_pattern_line_shape_texture_50880_2560x1600-u26372-fr.png" crc="479765375" ref="index"/>
+    <file name="vlcsnap-2016-05-20-07h05m28s56.jpg" crc="527552570" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="4.jpg" crc="4116037905" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="vlcsnap-2016-07-12-08h20m56s87.jpg" crc="210907956" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="kids competition.jpg" crc="299689034" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mall01.jpg" crc="4116906084" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="20150909_193947.jpg" crc="3800679698" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="20151107_204914.jpg" crc="4039952276" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="facebook-logo.png" crc="68853590" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="instagrampn.png" crc="4044065989" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="580b57fcd9996e24bc43c548.png" crc="4054324829" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mail.png" crc="232213162" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo_complete.png" crc="344844145" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo_complete60x60.png" crc="165367549" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="vlcsnap-2016-05-20-07h05m28s56-u24935-fr.jpg" crc="4242102210" ref="index"/>
+    <file name="4-u24936-fr.jpg" crc="271544645" ref="index"/>
+    <file name="kids competition-u24937-fr.jpg" crc="420882295" ref="index"/>
+    <file name="mall01-u24938-fr.jpg" crc="3854624858" ref="index"/>
+    <file name="1280x720-a0x-u24917-fr.jpg" crc="4150919500" ref="index"/>
+    <file name="20150701_172931-u24918-fr.jpg" crc="3868351417" ref="index"/>
+    <file name="20150910_185251-u24919-fr.jpg" crc="4177400818" ref="index"/>
+    <file name="vlcsnap-2016-07-12-08h20m56s87-u24934-fr.jpg" crc="92161613" ref="index"/>
+    <file name="20151107_204914-u24916-fr.jpg" crc="3971460423" ref="index"/>
+    <file name="20150909_193947-u24915-fr.jpg" crc="4170487499" ref="index"/>
+    <file name="mail-u24881-fr.png" crc="4051402433" ref="index"/>
+    <file name="580b57fcd9996e24bc43c548-u24979-fr.png" crc="328769714" ref="index"/>
+    <file name="logo_complete45x45.png" crc="3993041262" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="25421_background_pattern_line_shape_texture_50880_2560x1600.jpg" crc="4189381250" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo_complete200x200.png" crc="9874230" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="580b57fcd9996e24bc43c548-u23489-fr.png" crc="222451394" ref="index"/>
+    <file name="logo_complete89x89.png" crc="357129977" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="20150910_185251-u22717-fr.jpg" crc="338685113" ref="index"/>
+    <file name="20150701_172931-u22716-fr.jpg" crc="524224713" ref="index"/>
+    <file name="1280x720-a0x-u22715-fr.jpg" crc="4073363436" ref="index"/>
+    <file name="vlcsnap-2016-07-12-08h20m56s87-u22731-fr.jpg" crc="200455399" ref="index"/>
+    <file name="kids competition-u22734-fr.jpg" crc="4228223751" ref="index"/>
+    <file name="4-u22733-fr.jpg" crc="300035988" ref="index"/>
+    <file name="mall01-u22735-fr.jpg" crc="4075489077" ref="index"/>
+    <file name="20151107_204914-u22714-fr.jpg" crc="4024341882" ref="index"/>
+    <file name="20150909_193947-u22713-fr.jpg" crc="156646213" ref="index"/>
+    <file name="logo_complete180x180.png" crc="46038780" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="580b57fcd9996e24bc43c548-u22744-fr.png" crc="448955835" ref="index"/>
+    <file name="logo_complete87x87.png" crc="3999555908" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="480_sizebanner.jpg" crc="48672106" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="20150701_172931-u21401-fr.jpg" crc="4192151609" ref="index"/>
+    <file name="11026244_699185820207790_6194821662517260693_n-u21392-fr.jpg" crc="4026535680" ref="index"/>
+    <file name="20151107_204914-u21400-fr.jpg" crc="4288670994" ref="index"/>
+    <file name="20150909_193947-u21399-fr.jpg" crc="76047271" ref="index"/>
+    <file name="480_map.jpg" crc="4275874283" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo_complete98x98.png" crc="375207546" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mail-u21395-fr.png" crc="4021895111" ref="index"/>
+    <file name="facebook-logo-u21386-fr.png" crc="3804580337" ref="index"/>
+    <file name="instagrampn-u21427-fr.png" crc="284729320" ref="index"/>
+    <file name="580b57fcd9996e24bc43c548-u21428-fr.png" crc="4091206458" ref="index"/>
+    <file name="logo_complete67x67.png" crc="3874231871" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="20150701_172931-u20651-fr.jpg" crc="4096256067" ref="index"/>
+    <file name="11026244_699185820207790_6194821662517260693_n-u20642-fr.jpg" crc="3920304545" ref="index"/>
+    <file name="vlcsnap-2016-05-20-07h05m28s56-u20666-fr.jpg" crc="4163045166" ref="index"/>
+    <file name="kids competition-u20668-fr.jpg" crc="3979874156" ref="index"/>
+    <file name="mall01-u20669-fr.jpg" crc="518835709" ref="index"/>
+    <file name="20150909_193947-u20649-fr.jpg" crc="267873907" ref="index"/>
+    <file name="20151107_204914-u20650-fr.jpg" crc="4163674610" ref="index"/>
+    <file name="instagrampn-u20677-fr.png" crc="394046270" ref="index"/>
+    <file name="580b57fcd9996e24bc43c548-u20678-fr.png" crc="212174268" ref="index"/>
+    <file name="logo_complete94x94.png" crc="4293308120" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+  </folder>
+  <file name="index.html" crc="3972272804" seo="true" mt="1523203149607" redirect="true"/>
+</manifest>
